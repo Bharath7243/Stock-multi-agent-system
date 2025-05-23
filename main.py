@@ -1,7 +1,7 @@
 """
-identify_ticker Agent
+ticker_analysis Agent
 """
 
 def handle(input_data):
-    # TODO: Implement logic for identify_ticker
-    return "identify_ticker response placeholder"
+    # TODO: Implement logic for ticker_analysis
+    return "ticker_analysis response placeholder"
